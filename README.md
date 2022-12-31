@@ -1,4 +1,4 @@
-# Running-Man
+# Lost Valley
 2D projest using SDL2 library and C/C++
 * Library Pre-requisites : 
   * ```Linux```:
@@ -34,7 +34,7 @@
    
   * Compile with:
       ```
-       make && ./runningman
+       make && ./lostvalley
       ``` 
       # Video 
-      https://youtu.be/jK9MewPLlCI
+      https://youtu.be/4Q2ZfVXwD5I
